@@ -7,7 +7,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  multi_xml (= 0.5.5)
+  multi_xml
 
 BUNDLED WITH
-   1.13.1
+   1.13.6
