@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    json (2.0.1)
     multi_xml (0.5.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  json
   multi_xml
 
 BUNDLED WITH
